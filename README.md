@@ -6,4 +6,4 @@
 ### 죽어버린 감익히는 용도로 해봤습니다.
 
 ## 목차
-- unit1 들어가기 <a href="https://github.com/moonlomon/dojang_project/blob/main/unit1/unit1-1/readme.md">클릭</a>
+- unit1 들어가기 <a href="https://github.com/moonlomon/dojang_project/blob/main/unit1/unit1-1/들어가기.md">클릭</a>
