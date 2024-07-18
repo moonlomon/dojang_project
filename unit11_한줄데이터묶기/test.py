@@ -1,2 +1,2 @@
-r_a, r_b = range(3), range(3,6)
-print(list(r_a)*2)
+_tuple, _range, _stirng = (0,1,2), range(3), "012"
+print(len(_tuple), len(_range), len(_stirng))
